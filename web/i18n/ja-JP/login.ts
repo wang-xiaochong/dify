@@ -42,7 +42,7 @@ const translation = {
     passwordInvalid: 'パスワードは文字と数字を含み、長さは8以上である必要があります',
   },
   license: {
-    tip: 'Dify Community Editionを開始する前に、GitHubの',
+    tip: 'Hyseim Community Editionを開始する前に、GitHubの',
     link: 'オープンソースライセンス',
   },
   join: '参加する',

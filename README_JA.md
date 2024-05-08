@@ -1,7 +1,7 @@
 ![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
 
 <p align="center">
-  <a href="https://cloud.dify.ai">Dify Cloud</a> ·
+  <a href="https://cloud.dify.ai">Hyseim Cloud</a> ·
   <a href="https://docs.dify.ai/getting-started/install-self-hosted">セルフホスト</a> ·
   <a href="https://docs.dify.ai">ドキュメント</a> ·
   <a href="https://cal.com/guchenhe/dify-demo">デモのスケジュール</a>
@@ -80,7 +80,7 @@ DifyはオープンソースのLLMアプリケーション開発プラットフ�
 <table style="width: 100%;">
   <tr>
     <th align="center">機能</th>
-    <th align="center">Dify.AI</th>
+    <th align="center">Hyseim.AI</th>
     <th align="center">LangChain</th>
     <th align="center">Flowise</th>
     <th align="center">OpenAI Assistants API</th>
@@ -148,7 +148,7 @@ DifyはオープンソースのLLMアプリケーション開発プラットフ�
 - **クラウド </br>**
 [こちら](https://dify.ai)のDify Cloudサービスを利用して、セットアップ不要で試すことができます。サンドボックスプランには、200回の無料のGPT-4呼び出しが含まれています。
 
-- **Dify Community Editionのセルフホスティング</br>**
+- **Hyseim Community Editionのセルフホスティング</br>**
 この[スターターガイド](#quick-start)を使用して、ローカル環境でDifyを簡単に実行できます。
 さらなる参考資料や詳細な手順については、[ドキュメント](https://docs.dify.ai)をご覧ください。
 
@@ -211,8 +211,8 @@ docker compose up -d
 ## コミュニティ & お問い合わせ
 
 * [Github Discussion](https://github.com/langgenius/dify/discussions). 主に: フィードバックの共有や質問。
-* [GitHub Issues](https://github.com/langgenius/dify/issues). 主に: Dify.AIの使用中に遭遇したバグや機能提案。
-* [Email](mailto:support@dify.ai?subject=[GitHub]Questions%20About%20Dify). 主に: Dify.AIの使用に関する質問。
+* [GitHub Issues](https://github.com/langgenius/dify/issues). 主に: Hyseim.AIの使用中に遭遇したバグや機能提案。
+* [Email](mailto:support@dify.ai?subject=[GitHub]Questions%20About%20Dify). 主に: Hyseim.AIの使用に関する質問。
 * [Discord](https://discord.gg/FngNHpbcY7). 主に: アプリケーションの共有やコミュニティとの交流。
 * [Twitter](https://twitter.com/dify_ai). 主に: アプリケーションの共有やコミュニティとの交流。
 
@@ -242,4 +242,4 @@ docker compose up -d
 
 ## ライセンス
 
-このリポジトリは、Dify Open Source License にいくつかの追加制限を加えた[Difyオープンソースライセンス](LICENSE)の下で利用可能です。
+このリポジトリは、Hyseim Open Source License にいくつかの追加制限を加えた[Difyオープンソースライセンス](LICENSE)の下で利用可能です。

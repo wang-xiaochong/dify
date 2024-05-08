@@ -1,4 +1,4 @@
-# Dify Code of Conduct
+# Hyseim Code of Conduct
 
 ## Our Pledge
 
